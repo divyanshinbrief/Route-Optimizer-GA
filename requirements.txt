@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+numpy
+flask-cors
+scipy
+deap
+pygad
+matplotlib
+pytest
